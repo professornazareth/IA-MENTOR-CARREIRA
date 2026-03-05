@@ -1,5 +1,3 @@
-# ia-mentor-de-carreira
-
 # IA Mentor de Carreira
 
 ## Missão
@@ -295,6 +293,6 @@ PROJETO: https://lovable.dev/products/sweet-text-hug
 <img width="1434" height="825" alt="Captura de tela 2026-02-26 134009 IA MENTOR ATIVADO" src="https://github.com/user-attachments/assets/dc5e53d6-51a9-4f43-aaec-d27d21a45062" />
 
 RESUMO:
-IA CARREIRA UP PLANEJADOR é um app comandado por voz e texto para auxiliar as pessoas a planejar a sua carreira.
+IA CARREIRA UP PLANEJADOR é um app IA comandado por voz e texto para auxiliar as pessoas a planejar a sua carreira.
 
 
