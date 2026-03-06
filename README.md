@@ -285,9 +285,7 @@ OBJETIVO:
 
 NOME FANTASIA: IA CARREIRA UP PLANEJADOR
 
-SITE: https://sweet-text-hug.lovable.app 
-
-PROJETO: https://lovable.dev/products/sweet-text-hug
+SITE: https://sweet-text-hug.lovable.app
 
 <img width="1440" height="821" alt="Captura de tela 2026-02-26 134606 APP IA MENTOR DE CARREIRA LIVE CARREIRA UP PLANEJADOR LIVE NA WEB" src="https://github.com/user-attachments/assets/625c6471-3b45-4b19-90bf-adbf132aec43" />
 <img width="1434" height="825" alt="Captura de tela 2026-02-26 134009 IA MENTOR ATIVADO" src="https://github.com/user-attachments/assets/dc5e53d6-51a9-4f43-aaec-d27d21a45062" />
