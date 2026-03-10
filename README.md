@@ -288,7 +288,13 @@ NOME FANTASIA: IA CARREIRA UP PLANEJADOR
 SITE: https://sweet-text-hug.lovable.app
 
 <img width="1440" height="821" alt="Captura de tela 2026-02-26 134606 APP IA MENTOR DE CARREIRA LIVE CARREIRA UP PLANEJADOR LIVE NA WEB" src="https://github.com/user-attachments/assets/625c6471-3b45-4b19-90bf-adbf132aec43" />
-<img width="1434" height="825" alt="Captura de tela 2026-02-26 134009 IA MENTOR ATIVADO" src="https://github.com/user-attachments/assets/dc5e53d6-51a9-4f43-aaec-d27d21a45062" />
+<img width="1439" height="857" alt="Captura de tela 2026-03-10 192642 IA MENTOR" src="https://github.com/user-attachments/assets/2c3ad55f-774d-4d63-85b2-3314fe4f873e" />
+<img width="1428" height="862" alt="Captura de tela 2026-03-10 192135 IA MENTOR" src="https://github.com/user-attachments/assets/76a48f48-1225-446e-9faa-eee29848438d" />
+<img width="1428" height="858" alt="Captura de tela 2026-03-10 192209 IA MENTOR" src="https://github.com/user-attachments/assets/bddffe20-329a-46e9-9dae-9a54fba6e267" />
+<img width="1428" height="856" alt="Captura de tela 2026-03-10 192342 IA MENTOR" src="https://github.com/user-attachments/assets/63b05ae6-1897-475c-992e-624b1291656e" />
+<img width="1427" height="854" alt="Captura de tela 2026-03-10 192430 IA MENTOR" src="https://github.com/user-attachments/assets/a80d01a3-c54d-4f01-9042-1bd25907e01c" />
+<img width="1429" height="856" alt="Captura de tela 2026-03-10 192534 IA MENTOR" src="https://github.com/user-attachments/assets/805c1923-0748-426b-ad05-8b017b00f9c3" />
+
 
 RESUMO:
 IA CARREIRA UP PLANEJADOR é um app IA comandado por voz e texto para auxiliar as pessoas a planejar a sua carreira.
